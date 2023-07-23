@@ -1,0 +1,23 @@
+{
+  "name": "muya-navigation-server",
+  "version": "1.0.0",
+  "description": "使用技术栈：koa.js + Node + MongoDB + Parcel编译打包工具",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muyaCode/muya-navigation-server.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/muyaCode/muya-navigation-server/issues"
+  },
+  "homepage": "https://github.com/muyaCode/muya-navigation-server#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
